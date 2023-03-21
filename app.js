@@ -28,3 +28,5 @@ function elementMaker(string) {
 console.log(elementMaker(bodyTemplate));
 
 
+// 함수 안에 함수를 왜 써?
+// 
